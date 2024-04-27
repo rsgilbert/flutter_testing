@@ -1,0 +1,2 @@
+add integration_test 
+flutter pub add --dev --sdk=flutter integration_test
