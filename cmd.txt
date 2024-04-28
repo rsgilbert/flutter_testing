@@ -1,2 +1,8 @@
 add integration_test 
 flutter pub add --dev --sdk=flutter integration_test
+
+add flutter_driver
+flutter pub add --dev --sdk=flutter flutter_driver
+
+add test 
+flutter pub add --dev test
